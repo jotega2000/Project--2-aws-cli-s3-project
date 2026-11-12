@@ -1,0 +1,12 @@
+# AWS credentials
+.aws/
+**/.aws/
+
+# Environment and secret files
+.env
+.env.*
+*.pem
+*.key
+
+# Downloaded test file
+downloaded-test.txt
